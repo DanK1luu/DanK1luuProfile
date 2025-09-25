@@ -15,10 +15,10 @@ I love turning ideas into user-friendly solutions and collaborating on open-sour
 ---
 
 ### 🚀 Featured Projects
-- **[Crypto Rule-Based Chatbot]** – Python chatbot that analyzes live cryptocurrency data.
-- **[Multi-Agent AI Prototypes]** – Experiments in autonomous decision-making agents.
-- **[Rugby-Merch E-commerce Site]** – React/Node store for tournament merchandise.
-- **[Mentra Pitch Deck]** – Student-centered mental health startup concept.
+- **Crypto Rule-Based Chatbot** – Python chatbot that analyzes live cryptocurrency data.
+- **Multi-Agent AI Prototypes** – Experiments in autonomous decision-making agents.
+- **Rugby-Merch E-commerce Site** – React/Node store for tournament merchandise.
+- **Mentra Pitch Deck** – Student-centered mental health startup concept.
 
 
 
